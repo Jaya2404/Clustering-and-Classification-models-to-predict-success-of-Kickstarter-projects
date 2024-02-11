@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 29 19:03:54 2023
-
-@author: jayac
-"""
-
 # Import data
 import pandas as pd
 from sklearn.model_selection import train_test_split
