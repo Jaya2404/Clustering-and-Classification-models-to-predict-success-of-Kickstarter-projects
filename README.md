@@ -1,2 +1,2 @@
-# Clustering-and-Classification-models-to-predict-success-of-Kickstarter-projects
-Using Clustering and Classification models trying to predict whether a Kickstarter project would be successful or not.
+# Predicting success of kickstarter projects
+This project aimed at exploring and deriving insights from a dataset containing information about various Kickstarter campaigns. As a first step, I built a classification model using multiple techniques (Random Forest, Decision Tree etc). I chose to pursue Random Forest as it had higher accuracy. In the next step, I used clustering techniques to identify patterns among the various kickstarter projects. For this I used Elbow method and Silhoutte score to identify the number of clusters. I experimented with k-means and Agglomerative clustering techniques and finally chose to go with k-means clustering since it demonstrated better data distribution.
